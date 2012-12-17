@@ -1,0 +1,15 @@
+# FarsiFonts News
+
+## Version 0.5
+Maintainance beta release.
+
+* Reorganize files, no change in the fonts.
+
+## Version 0.4
+Beta release.
+
+* Various improvements to the 0.3 version.
+* Contains new fonts Nazli Bold and Elham, bringing the number of fonts to a
+  total of ten.
+* Fixes a few bugs for the font Titr.
+

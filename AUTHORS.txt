@@ -1,0 +1,8 @@
+# FarsiFonts Contributors
+Aidin Nassiri
+Alireza Kheirkhahan
+Behdad Esfahbod
+Behnam Esfahbod
+Behnam Pournader
+Elnaz Sarbar
+Roozbeh Pournader
