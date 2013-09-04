@@ -1,11 +1,11 @@
-FarsiFonts
-==========
+FarsiWeb Fonts
+==============
 *FarsiWeb's Persian Fonts Collection*
 
 NOTE: This is a beta release and contains known bugs, so use the fonts at your
 own risk. But we appreciate bug reports or requests for enhancements.
 
-According to our best knowledge, FarsiFonts are the first Unicode compliant
+According to our best knowledge, FarsiWeb Fonts are the first Unicode compliant
 versions of these fonts, and the first set of fonts ever to conform to the
 Iranian national standard ISIRI 6219. The fonts currently support the Persian,
 Arabic, and Azerbaijani languages (as written in the Arabic script).
@@ -33,7 +33,7 @@ free software.
 
 Links
 -----
-* Project homepage: http://code.behnam.es/ttf-farsifonts
-* Bug reports: https://github.com/behnam/ttf-farsifonts/issues
-* Discussion: http://persian-computing.org/ mailing list
+* Project homepage: http://code.behnam.es/fonts-farsiweb
+* Bug reports: https://github.com/behnam/fonts-farsiweb/issues
+* Discussion: http://persian-computing.org/ mailing lists
 
